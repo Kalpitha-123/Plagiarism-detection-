@@ -38,8 +38,20 @@ This project detects plagiarism in text documents by comparing similarities betw
     
 2.Navigate to the project directory:
 
-   cd plagiarism-detection
+    cd plagiarism-detection
    
 3.Install dependencies:
 
-   pip install -r requirements.txt
+    pip install -r requirements.txt
+
+**🖥️ Usage**
+
+
+Run the script to check for plagiarism:
+
+    python app.py
+
+    
+If using a web interface:
+
+    flask run
